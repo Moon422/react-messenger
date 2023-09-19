@@ -1,0 +1,15 @@
+#menu-item-1:hover #menu-item-underline-1 {
+    @apply border-blue-600
+}
+
+#menu-item-2:hover #menu-item-underline-2 {
+    @apply border-blue-600
+}
+
+#menu-item-3:hover #menu-item-underline-3 {
+    @apply border-blue-600
+}
+
+#menu-item-4:hover #menu-item-underline-4 {
+    @apply border-blue-600
+}
