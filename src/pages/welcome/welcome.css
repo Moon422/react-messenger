@@ -13,3 +13,7 @@
 #menu-item-4:hover #menu-item-underline-4 {
     @apply border-blue-600
 }
+
+#footer-item-1:hover #footer-item-underline-1 {
+    @apply border-black
+}
